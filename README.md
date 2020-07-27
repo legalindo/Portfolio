@@ -6,6 +6,7 @@ Os projetos foram desenvolvidos na grande maioria em Python, utilizando as mais 
 
 # Deixo também meus contatos:
 Linkedin: https://www.linkedin.com/in/leandro-galindo-almeida-46113733/
+
 E-mail: le.galindo17@gmail.com
 
 Att
