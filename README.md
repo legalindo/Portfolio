@@ -10,5 +10,4 @@ Linkedin: https://www.linkedin.com/in/leandro-galindo-almeida-46113733/
 E-mail: le.galindo17@gmail.com
 
 Att
-
 Leandro Galindo
