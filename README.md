@@ -28,3 +28,4 @@ Veja os tutoriais publicados:
 * **Analise descritiva de dados de e-commerce Olist com Python:** https://bit.ly/2XIIR2v
 * **Utilizando Machine_Learning KNN, prevendo qual funcionário irá pedir demissão:** https://bit.ly/31wBvjV
 * **Como identificar a similaridade entre strings, usando Fuzzywuzzy, em python** https://bit.ly/3kpjuwv
+* **Utilizando Machine Learning Regressão Linear, para prever os preços de carros** https://bit.ly/30KQB6g
